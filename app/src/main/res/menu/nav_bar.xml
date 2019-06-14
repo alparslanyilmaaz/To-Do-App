@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_comp"
+        android:icon="@drawable/ic_done_all_black_24dp"
+        android:title="Completed"/>
+
+    <item
+        android:id="@+id/nav_all_data"
+        android:icon="@drawable/all_data"
+        android:title="All Data" />
+    <item
+        android:id="@+id/nav_uncomp"
+        android:icon="@drawable/uncompleted"
+        android:title="Uncompleted"/>
+</menu>
